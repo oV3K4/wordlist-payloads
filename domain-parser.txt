@@ -1,0 +1,17 @@
+https:attacker.com
+https:/attacker.com
+http:/\/\attacker.com
+https:/\attacker.com
+//attacker.com
+\/\/attacker.com/
+/\/attacker.com/
+/attacker.com
+%0D%0A/attacker.com
+#attacker.com
+#%20@attacker.com
+@attacker.com
+http://169.254.1698.254\@attacker.com
+attacker%00.com
+attacker%E3%80%82com
+attacker。com
+ⒶⓉⓉⒶⒸⓀⒺⓡ.Ⓒⓞⓜ

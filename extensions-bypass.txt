@@ -1,0 +1,3 @@
+https://metadata/vulerable/path#/expected/path
+https://metadata/vulerable/path#.extension
+https://metadata/expected/path/..%2f..%2f/vulnerable/path
